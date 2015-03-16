@@ -1,6 +1,6 @@
 {
   "name": "marty-clipboard",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Allowing you to copy and paste the state of a Marty application",
   "main": "index.js",
   "scripts": {
